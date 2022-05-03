@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="main.hint_enter_city">Enter a city</string>
+    <string name="main.error_invalid_city_name">Please enter a city that equals to or larger than %s characters.</string>
+    <string name="main.get_weather">Get Weather</string>
+    <string name="main.date_format">Date: %s</string>
+    <string name="main.average_temperature_format">Average Temperature: %s°C</string>
+    <string name="main.pressure_format">Pressure: %s</string>
+    <string name="main.humidity_format">Humidity: %s%%</string>
+    <string name="main.description_format">Description: %s</string>
+    <string name="main.a11y_the_weather">The weather</string>
+</resources>
